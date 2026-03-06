@@ -1,10 +1,10 @@
 # Vancouver Crime Data Analysis - Beginner
 
-This project analyzes crime data from Vancouver to identify trends in:
+This project analyzes crime data from Vancouver in the year 2003 to identify trends in:
 
-Which neighborhoods have the most crime?
-What types of crimes occur most often?
-Are there specific times when crimes occur more frequently?
+-Which neighborhoods have the most crime?
+-What types of crimes occur most often?
+-Are there specific times when crimes occur more frequently?
 
 ## Tools Used
 
@@ -12,6 +12,7 @@ Are there specific times when crimes occur more frequently?
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- sqlite3
 
 ## Key Findings
 
