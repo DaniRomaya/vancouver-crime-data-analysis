@@ -15,6 +15,6 @@ This project analyzes crime data from Vancouver to identify trends in:
 
 ## Key Findings
 
-- Downtown has the highest number of crimes
-- Theft from vehicles is the most common crime
-- Crime peaks in evening hours
+- Oakridge has the highest number of reported crimes in 2003
+- Theft from vehicle appears to be the crime most conducted in 2003
+- More crimes occur during the afternoon and evening then the morning and before dawn.
