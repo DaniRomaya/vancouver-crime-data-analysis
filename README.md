@@ -2,9 +2,9 @@
 
 This project analyzes crime data from Vancouver to identify trends in:
 
-- Crime types
-- High-crime neighborhoods
-- Time-based crime patterns
+Which neighborhoods have the most crime?
+What types of crimes occur most often?
+Are there specific times when crimes occur more frequently?
 
 ## Tools Used
 
